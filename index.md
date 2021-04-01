@@ -13,7 +13,8 @@ Email: sktse@connect.ust.hk
 ## UG FYP
 A 24-GHz FMCW Radar System for ADAS  
 - [Best FYP Awards](https://ece.hkust.edu.hk/news/ece-advisory-board-meeting-final-year-project-industry-day-2019)
-- [HKEIA Project Competition] (https://www.hkeia.org/scholarship/list/2019list_e.html)
+- [HKEIA Project Competition](https://www.hkeia.org/scholarship/list/2019list_e.html)
+- 
 <!--- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/atkwong/atkwong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
