@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/24987744/112956170-c0b02280-9172-11eb-8ff3-460f32ddf678.jpg" width="250" height="250">  
+
+
 ## About me
 MPhil in ECE student at HKUST  
 Email: sktse@connect.ust.hk
