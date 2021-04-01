@@ -7,7 +7,7 @@ Interested in Multi-Robot Formation
 Email: sktse@connect.ust.hk
 
 ## Publication
-- (Accepted) Relative State Formation-based Warehouse Multi-robot Collaborative Parcel Moving, ICPS 2021
+- (Accepted) Relative State Formation-based Warehouse Multi-robot Collaborative Parcel Moving, IEEE-ICPS 2021
 
 ## Teaching experience
 - TA for ELEC3200 (System Modeling, Analysis and Control) Fall 2020
