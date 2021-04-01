@@ -3,8 +3,17 @@
 
 ## About me
 MPhil in ECE student at HKUST  
+Interested in Multi-Robot Formation  
 Email: sktse@connect.ust.hk
 
+## Teaching experience
+- TA for ELEC3200 (System Modeling, Analysis and Control) Fall 2020
+- TA for ELEC3300 (Introduction to Embedded Systems) Spring 2020
+
+## UG FYP
+A 24-GHz FMCW Radar System for ADAS
+[Best FYP Awards](https://ece.hkust.edu.hk/news/ece-advisory-board-meeting-final-year-project-industry-day-2019)
+[HKEIA Project Competition] (https://www.hkeia.org/scholarship/list/2019list_e.html)
 <!--- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/atkwong/atkwong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
