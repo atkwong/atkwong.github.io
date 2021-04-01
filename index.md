@@ -2,9 +2,12 @@
 
 
 ## About me
-MPhil in ECE student at HKUST  
+**MPhil in ECE student at HKUST**  
 Interested in Multi-Robot Formation  
 Email: sktse@connect.ust.hk
+
+## Publication
+- (Accepted) Relative State Formation-based Warehouse Multi-robot Collaborative Parcel Moving, ICPS 2021
 
 ## Teaching experience
 - TA for ELEC3200 (System Modeling, Analysis and Control) Fall 2020
