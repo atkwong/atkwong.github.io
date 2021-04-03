@@ -2,19 +2,22 @@
 
 
 ## About me
-**MPhil in ECE student at HKUST**  
-Interested in Multi-Robot Formation  
+**M.Phil. student at HKUST**  
+Conducting research in Multi-Robot Formation  
 Email: sktse@connect.ust.hk
+
+## Education
+- B.Eng. in Electronic Engineering with a minor in Robotics, HKUST
 
 ## Publication
 - (Accepted) Relative State Formation-based Warehouse Multi-robot Collaborative Parcel Moving, IEEE-ICPS 2021
 
 ## Teaching experience
-- TA for ELEC3200 (System Modeling, Analysis and Control) Fall 2020
-- TA for ELEC3300 (Introduction to Embedded Systems) Spring 2020
+- Teaching Assistant for ELEC3200 (System Modeling, Analysis and Control), Fall 2020
+- Teaching Assistant for ELEC3300 (Introduction to Embedded Systems), Spring 2020
 
 ## UG FYP
-A 24-GHz FMCW Radar System for ADAS
+A 24-GHz Radar System for ADAS
 - [Best FYP Awards](https://ece.hkust.edu.hk/news/ece-advisory-board-meeting-final-year-project-industry-day-2019)
 - [HKEIA Project Competition](https://www.hkeia.org/scholarship/list/2019list_e.html)  
 
