@@ -1,3 +1,7 @@
+*THIS PAGE IS DEVELOPED BASED ON HTML5 UP.*
+*THIS PAGE IS FOR PERSONAL USE. - S.K. Tse*
+
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
